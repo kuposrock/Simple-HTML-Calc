@@ -1,0 +1,36 @@
+p{
+    display: inline;
+}
+.answer{
+    display: inline;
+}
+form {
+    display: inline;
+    
+}
+input{
+
+    width:inherit;
+    max-width:100px;
+}
+.calc{
+    margin:10px;
+    background-color: rgba(100,100,100,.5);
+    border: 2px solid black;
+    border-radius: 10px;
+    max-width: 400px;
+    text-align: left;
+    padding: 10px;
+    font-size: 18px;
+}
+
+.add{
+    background-color:aquamarine;
+}
+.sub{
+    background-color:bisque;
+}
+
+.mul{
+    background-color: darksalmon;
+}
